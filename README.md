@@ -5,6 +5,7 @@ Aqui podemos ver el resultado de un uso mas profundo de git y github gracias el 
 
 Creado por tu hermana
 incluye primas
+tias tal vez
 
 Gracias paltzi por ayudarme a superarme profesionalmente.
 [![Platzi](https://upload.wikimedia.org/wikipedia/commons/3/32/Platzi.jpg "Platzi")](https://upload.wikimedia.org/wikipedia/commons/3/32/Platzi.jpg "Platzi")
